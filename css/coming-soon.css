@@ -54,7 +54,7 @@ video {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #cd9557;
+  background-color: #6D887C;
   opacity: 0.7;
   z-index: 1;
 }
@@ -75,7 +75,7 @@ video {
   width: 100%;
   min-height: 35rem;
   height: 100%;
-  background-color: rgba(0, 46, 102, 0.8);
+  background-color: #001427;
   transform: skewY(4deg);
   transform-origin: bottom right;
 }
@@ -115,7 +115,7 @@ video {
   }
   .masthead .masthead-bg {
     min-height: 0;
-    transform: skewX(-8deg);
+    transform: skewX(-4deg);
     transform-origin: top right;
   }
   .masthead .masthead-content {
@@ -152,7 +152,7 @@ video {
 .social-icons ul > li > a {
   display: block;
   color: white;
-  background-color: rgba(0, 46, 102, 0.8);
+  background-color: #8D0801;
   border-radius: 100%;
   font-size: 2rem;
   line-height: 4rem;
